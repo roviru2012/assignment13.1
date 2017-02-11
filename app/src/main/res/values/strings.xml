@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactsAdd</string>
+    <string name="title_activity_main">Add Contact </string>
+    <string name="hnt_et_name">Display Name</string>
+    <string name="hnt_et_mobile_phone">Mobile Phone</string>
+    <string name="str_btn_add">Add Contact</string>
+    <string name="str_btn_contacts">Contacts List</string>
+</resources>
